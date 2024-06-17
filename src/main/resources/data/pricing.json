@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "type": "S",
+      "minutes": 10,
+      "sms": 50,
+      "price": 5
+    },
+    {
+      "type": "M",
+      "minutes": 50,
+      "sms": 100,
+      "price": 10
+    },
+    {
+      "type": "L",
+      "minutes": 500,
+      "sms": 500,
+      "price": 20
+    }
+  ],
+  "pricePerMinute": 0.2,
+  "pricePerSms": 0.3,
+  "currency": "EUR"
+}

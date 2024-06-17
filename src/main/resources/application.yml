@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: invoice
+
+  main:
+    web-application-type: none
+    banner-mode: console
+
+  shell:
+    history:
+      enabled: false
+    script:
+      enabled: false
+
+logging:
+  pattern:
+    console:
+  level:
+    root: off
+    dev:
+      mathias: debug
+  file:
+    name: out/invoice.log

@@ -1,0 +1,16 @@
+  ___                 _          
+ |_ _|_ ____   _____ (_) ___ ___ 
+  | || '_ \ \ / / _ \| |/ __/ _ \
+  | || | | \ V / (_) | | (_|  __/
+ |___|_| |_|\_/ \___/|_|\___\___|
+
+_________________________________
+  Invoice generator application
+_________________________________
+
+Basic usage:
+    generate [--package S|M|L] [--sms number] [--minutes number] --help
+
+For all available commands:
+    help
+_________________________________
